@@ -49,7 +49,7 @@ When this process is done, it should be easy as drag and drop to SD card. Once y
 ## TunaViDS Guide
 
 ### Windows
-First you want to grab your video of choice. It is recommended that your video be 4:3, but FFmpeg add black bars to the video if it isn't.
+First you want to grab your video of choice. It is recommended that your video be 4:3, but FFmpeg adds black bars to the video if it isn't.
 
 Warning: Do not change the ROM settings of Tuna-ViDS, it will not boot properly. This guide assumes you have the latest build of **TW**i**L**ight Menu++.
 {: .alert .alert-warning}
