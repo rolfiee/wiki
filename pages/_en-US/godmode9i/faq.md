@@ -39,7 +39,7 @@ You can find a few pre-converted fonts in the [resources folder](https://github.
 GodMode9i is able to use the save data of GBA cartridges to dump the saves of most DS Game Cards. ROM files and save files over 1 MiB cannot be dumped this way as the files are impractically large. This can also be done using Haxxstation instead of a DS flashcard if you have another way to dump the GBA save files, they can then be recombined and decompressed on a computer.
 
 1. Load GodMode9i on your flashcard
-1. Backup your GBA saves!!
+1. **Backup your GBA saves!**
    - Any save data that hasn't been backed up will be lost
    - Check the files and find the larger ones, using 512 byte carts won't help much while 64 or 128 KiB saves will fit most DS saves in 1 or 2 carts
 1. On the drive menu, press <kbd class="r">R</kbd> + <kbd class="face">B</kbd> to unmount the flashcard
