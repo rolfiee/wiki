@@ -27,7 +27,7 @@ The Master builds are divided into different builds for the DS, DSi and 3DS. The
 
 ### [Wi-Fi-Link](https://github.com/Gericom/GBARunner2/releases/tag/v20200217-194452_0b8bbe3)
 
-The Wi-Fi-Link branch adds the possibility to link up two systems wirelessly. Note that this does not go over the Internet, and this will never be possible due to latency. Currently your mileage will vary, and the only sure-fire game that will be able to keep a stable connection is Advance Guardian Heroes, and that is provided that you follow very specific instructions. Needless to say, consider this branch in its current state a novelty and a proof of concept, and not something to actually use. A few other games are able to connect, but they are very dependent on external factors like interference from other Wi-Fi signals, among many other things. To setup Wi-Fi liking, please see the [WikiTemp page](https://wiki.gbatemp.net/wiki/GBARunner2/Link).
+The Wi-Fi-Link branch adds the possibility to link up two systems wirelessly. Note that this does not go over the Internet, and this will never be possible due to latency. Currently your mileage will vary, and the only sure-fire game that will be able to keep a stable connection is Advance Guardian Heroes, and that is provided that you follow very specific instructions. Needless to say, consider this branch in its current state a novelty and a proof of concept, and not something to actually use. A few other games are able to connect, but they are very dependent on external factors like interference from other Wi-Fi signals, among many other things. To setup Wi-Fi linking, please see the [WikiTemp page](https://wiki.gbatemp.net/wiki/GBARunner2/Link).
 
 ## DS-Specific Builds
 
@@ -72,7 +72,7 @@ This fork by therealteamplayer merges the Hicode and DSP branches into one build
 
 ### 3DS-Specific: [Gyro](https://github.com/Gericom/GBARunner2/releases/tag/v20191228-021638_ee7f6a0)
 
-This branch makes use of the internal accelerometer in the 3DS so that GBA games that had this functionality can be played properly. There are several steps needed to take to make it work. Note that since there are different accelerometer chips between 3DS systems, this will not work on all 3DSes because all chips do not have code supporting them. 
+This branch makes use of the internal accelerometer in the 3DS so that GBA games that had this functionality can be played properly. There are several steps needed to take to make it work. Note that since there are different accelerometer chips between 3DS systems, this will not work on all 3DSes because not every chip has code supporting them. 
 
 There is no consistency in what type of 3DS has what chip, at least as far as anyone knows.
 

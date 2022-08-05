@@ -30,13 +30,13 @@ Always remember to check the channel topic and pins before talking in a channel.
 - [#nds-help][nds-help] - Have an issue with anything Nintendo DS(i) related? Need to ask a general question? Go ahead and do it here, providing all the information you can give (error messages, your console, methods tried, logs, and so forth). Keep 3DS modding in #other-console-modding unless it involves TWL_FIRM
 - [#nds-discussion][nds-discussion] - Place to discuss flashcards, AP patches, and general DS understandings and research. While this channel covers TWL_FIRM on 3DS, please keep 3DS Mode discussions in #other-console-modding
 - [#nds-hacks][nds-hacks] - Talk about ROM hacks, mods, and cheats for Nintendo DS(i) titles. Check the pins for a list of dedicated communities
-- [#nds-development][nds-development] - Resources and discussions about DS(i) homebrew development. Discussion of already existing homebrew should go in #other-nds-homebrew
+- [#nds-dev][nds-dev] - Resources and discussions about DS(i) homebrew development. Discussion of already existing homebrew should go in #other-nds-homebrew
 
 **Main DS⁽ⁱ⁾ Homebrew Projects**
 - [#nds-bootstrap][nds-bootstrap] - This channel is for discussion of the development of nds-bootstrap, for help use #nds-modding-help
 - [#twilight-menu][twilight-menu] - This channel is for discussion of the development of TWiLight Menu++, for help use #nds-modding-help
 - [#gbarunner2][gbarunner2] - This channel is for discussion of the development of GBARunner2, for help use #nds-modding-help
-- [#websites-development][websites-development] - Discussion and suggestions for [dsi.cfw.guide](https://dsi.cfw.guide/) and all [ds-homebrew sites](https://ds-homebrew.com/) go here
+- [#web-dev][web-dev] - Discussion and suggestions for [dsi.cfw.guide](https://dsi.cfw.guide/) and all [ds-homebrew sites](https://ds-homebrew.com/) go here
 
 **Secondary DS⁽ⁱ⁾ Homebrew Projects**
 - [#godmode9i][godmode9i] - This channel is for discussion of the development of godmode9i, for help use #nds-modding-help
@@ -121,12 +121,12 @@ Server Maintainers: Kaisaan#6181, Pk11#3666, Kodtiz3D#8288, lifehackerhansol#454
 [nds-help]: https://discord.com/channels/283769550611152897/332961165829210117
 [nds-discussion]: https://discord.com/channels/283769550611152897/547986366357700620
 [nds-hacks]: https://discord.com/channels/283769550611152897/356988919738400768
-[nds-development]: https://discord.com/channels/283769550611152897/835273459339624499
+[nds-dev]: https://discord.com/channels/283769550611152897/835273459339624499
 
 [nds-bootstrap]: https://discord.com/channels/283769550611152897/283769550611152897
 [twilight-menu]: https://discord.com/channels/283769550611152897/489307733074640926
 [gbarunner2]: https://discord.com/channels/283769550611152897/620310871800807466
-[websites-development]: https://discord.com/channels/283769550611152897/744649302567157800
+[web-dev]: https://discord.com/channels/283769550611152897/744649302567157800
 
 [godmode9i]: https://discord.com/channels/283769550611152897/497960894660083732
 [emulators-on-nds]: https://discord.com/channels/283769550611152897/702400281966673951
