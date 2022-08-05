@@ -8,9 +8,7 @@ description: FAQ & Troubleshooting for GodMode9i
 ---
 
 #### How do I get past the "mounting drive(s)" screen while starting it up?
-This happens when you launch GodMode9i from [hiyaCFW](../hiyacfw). You can hold <kbd class="face">X</kbd> while launching GodMode9i to skip NAND mounting. Alternatively, you can launch GodMode9i directly from Unlaunch to be able to mount the NAND.
-
-This bug was fixed in GodMode9i v3.2.3.
+This bug was fixed in GodMode9i v3.2.3, update to resolve the issue.
 
 #### Why can't I add, remove, or edit files on the NAND?
 Editing files on the DSi NAND is not safe and can easily lead to a brick, so GodMode9i intentionally lacks this capability.
