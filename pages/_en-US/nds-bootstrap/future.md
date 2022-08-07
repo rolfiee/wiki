@@ -20,7 +20,7 @@ Have nds-bootstrap get closer to 1:1 compatibility with retail titles
 - Fixing Miniland-Mayhem [#467](https://github.com/DS-Homebrew/nds-bootstrap/issues/467)
 
 ### 1.1 Additional Enhancements to Games
-Adding features that do not exist when played off a game card
+Adding features that do not exist when played off of a Game Card
 - WPA connection in DS mode games [#628](https://github.com/DS-Homebrew/nds-bootstrap/issues/628)
 - Slot-2 Emulation [#19](https://github.com/DS-Homebrew/nds-bootstrap/issues/19)
 - Fixing E-type cheat codes [#746](https://github.com/DS-Homebrew/nds-bootstrap/issues/746)
