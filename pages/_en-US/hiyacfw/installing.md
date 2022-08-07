@@ -38,7 +38,7 @@ The hiyaCFW Helper is known to cause false positives with Windows Defender and o
 {% assign tab-macos = tab-macos | split: "////////" %}
 
 {% capture tab-other %}
-1. Install Python 3 using your package manager if its not already installed
+1. Install Python 3 using your package manager if it's not already installed
 1. Download the latest Python version of the [hiyaCFW Helper](https://github.com/mondul/HiyaCFW-Helper/releases)
 1. Extract the hiyaCFW Helper archive anywhere on your PC
 1. Install tkinter with the following command for your distro if you don't already have it:
